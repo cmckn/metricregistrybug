@@ -1,8 +1,8 @@
-# metricregistrybug
+# MetricRegistryBug
 Exemplifies a bug in which a Dropwizard MetricRegistry cannot be serialized using Jackson's ObjectMapper.
 
-# build
+## Build
 <pre>$ mvn package</pre>
 
-# run
+## Run
 <pre>$ ./run.sh</pre>
